@@ -11,14 +11,11 @@ print oh my god
 print oh my god
 print oh my god
 print oh my god
-<<<<<<< Updated upstream
-=======
 print oh my god
 print oh my god
 print oh my god
 print oh my god
 print oh my god
-<<<<<<< Updated upstream
 print oh my god
 print oh my god
 print oh my god
